@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-21T13:24:05.277Z" agent="5.0 (Windows)" etag="9lJehEjm6ds5Ea_PLv_3" version="17.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-21T14:00:11.674Z" agent="5.0 (Windows)" etag="dgm4OWcEKNcUVEA-9F3A" version="17.4.0" type="github">
   <diagram id="0TaQlvrkEOElF1sd7Q4E" name="Page-1">
-    <mxGraphModel dx="2031" dy="1114" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -35,7 +35,7 @@
           <mxGeometry x="600" y="345" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="B3szFcHrzICPFLmNVVuF-18" value="Teil PAE" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="730" y="475" width="90" height="50" as="geometry" />
+          <mxGeometry x="585" y="150" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="B3szFcHrzICPFLmNVVuF-19" value="HygBeauftragte" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="580" y="220" width="80" height="35" as="geometry" />
@@ -129,6 +129,12 @@
         </mxCell>
         <mxCell id="B3szFcHrzICPFLmNVVuF-52" value="Gesundheitsämter" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="1020" y="496" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B3szFcHrzICPFLmNVVuF-53" value="&lt;div&gt;Master&lt;/div&gt;&lt;div&gt;PH/Epi&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="475" width="90" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="B3szFcHrzICPFLmNVVuF-54" value="Universitäten" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="415" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
