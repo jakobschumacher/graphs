@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-03T07:36:10.447Z" agent="5.0 (Windows)" etag="IcIhW-FKPWHuWC4OM6Vq" version="18.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-07T07:17:37.965Z" agent="5.0 (Windows)" etag="EZu_Bxf1APvpHd6_0Nf3" version="18.2.0" type="github">
   <diagram id="8RLUcugFeyfd8YLwR2Qb" name="Page-1">
-    <mxGraphModel dx="2585" dy="1418" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3172" dy="1754" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -801,14 +801,17 @@
         <mxCell id="UfeElJ_7Z13PW4r0txmC-13" value="Widerrufen" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;labelBackgroundColor=none;labelBorderColor=none;fontSize=10;fillColor=#FFFFFF;fontColor=#0066CC;" vertex="1" parent="UfeElJ_7Z13PW4r0txmC-9">
           <mxGeometry x="534" y="15.000993765166804" width="62" height="32.36551760459253" as="geometry" />
         </mxCell>
-        <mxCell id="UfeElJ_7Z13PW4r0txmC-16" value="Person ist mit einer Befragung durch Fachexperten an der zugehörigen Landesstelle oder dem Robert Koch-Institut einverstanden" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;labelBackgroundColor=none;labelBorderColor=none;fontSize=10;fillColor=#FFFFFF;" vertex="1" parent="UfeElJ_7Z13PW4r0txmC-9">
-          <mxGeometry x="52" y="26" width="278" height="32.37" as="geometry" />
+        <mxCell id="UfeElJ_7Z13PW4r0txmC-16" value="Person ist mit einer Befragung durch Fachexperten an der zugehörigen Landesstelle oder dem Robert Koch-Institut einverstanden. Die oben eingetragenen Personendaten werden übermittelt" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;labelBackgroundColor=none;labelBorderColor=none;fontSize=10;fillColor=#FFFFFF;" vertex="1" parent="UfeElJ_7Z13PW4r0txmC-9">
+          <mxGeometry x="52" y="26" width="353" height="32.37" as="geometry" />
         </mxCell>
         <mxCell id="UfeElJ_7Z13PW4r0txmC-20" value="" style="shape=image;aspect=fixed;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0NDggNTEyIj48cGF0aCBkPSJNNDAwIDQ4MEg0OGMtMjYuNTEgMC00OC0yMS40OS00OC00OFY4MGMwLTI2LjUxIDIxLjQ5LTQ4IDQ4LTQ4aDM1MmMyNi41MSAwIDQ4IDIxLjQ5IDQ4IDQ4djM1MmMwIDI2LjUxLTIxLjQ5IDQ4LTQ4IDQ4em0tMjA0LjY4Ni05OC4wNTlsMTg0LTE4NGM2LjI0OC02LjI0OCA2LjI0OC0xNi4zNzkgMC0yMi42MjdsLTIyLjYyNy0yMi42MjdjLTYuMjQ4LTYuMjQ4LTE2LjM3OS02LjI0OS0yMi42MjggMEwxODQgMzAyLjc0NWwtNzAuMDU5LTcwLjA1OWMtNi4yNDgtNi4yNDgtMTYuMzc5LTYuMjQ4LTIyLjYyOCAwbC0yMi42MjcgMjIuNjI3Yy02LjI0OCA2LjI0OC02LjI0OCAxNi4zNzkgMCAyMi42MjdsMTA0IDEwNGM2LjI0OSA2LjI1IDE2LjM3OSA2LjI1IDIyLjYyOC4wMDF6Ii8+PC9zdmc+;connectable=0;movable=1;verticalLabelPosition=bottom;resizable=1;rotatable=0;cloneable=0;deletable=1;recursiveResize=0;imageBackground=none;verticalAlign=top;fontSize=6;" vertex="1" parent="UfeElJ_7Z13PW4r0txmC-9">
           <mxGeometry x="28" y="25" width="16" height="16" as="geometry" />
         </mxCell>
         <mxCell id="UfeElJ_7Z13PW4r0txmC-21" value="05.06.2022 14:36 SchumacherJ" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;labelBackgroundColor=none;labelBorderColor=none;fontSize=6;fillColor=#FFFFFF;fontColor=#4D4D4D;" vertex="1" parent="UfeElJ_7Z13PW4r0txmC-9">
           <mxGeometry x="498" y="78" width="92" height="17.29" as="geometry" />
+        </mxCell>
+        <mxCell id="UfeElJ_7Z13PW4r0txmC-58" value="" style="shape=image;aspect=fixed;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cGF0aCBkPSJNMjU2IDhDMTE5LjA0MyA4IDggMTE5LjA4MyA4IDI1NmMwIDEzNi45OTcgMTExLjA0MyAyNDggMjQ4IDI0OHMyNDgtMTExLjAwMyAyNDgtMjQ4QzUwNCAxMTkuMDgzIDM5Mi45NTcgOCAyNTYgOHptMCAxMTBjMjMuMTk2IDAgNDIgMTguODA0IDQyIDQycy0xOC44MDQgNDItNDIgNDItNDItMTguODA0LTQyLTQyIDE4LjgwNC00MiA0Mi00MnptNTYgMjU0YzAgNi42MjctNS4zNzMgMTItMTIgMTJoLTg4Yy02LjYyNyAwLTEyLTUuMzczLTEyLTEydi0yNGMwLTYuNjI3IDUuMzczLTEyIDEyLTEyaDEydi02NGgtMTJjLTYuNjI3IDAtMTItNS4zNzMtMTItMTJ2LTI0YzAtNi42MjcgNS4zNzMtMTIgMTItMTJoNjRjNi42MjcgMCAxMiA1LjM3MyAxMiAxMnYxMDBoMTJjNi42MjcgMCAxMiA1LjM3MyAxMiAxMnYyNHoiLz48L3N2Zz4=;connectable=0;movable=1;verticalLabelPosition=bottom;resizable=1;rotatable=0;cloneable=0;deletable=1;recursiveResize=0;imageBackground=none;verticalAlign=top;rounded=1;shadow=0;labelBackgroundColor=default;labelBorderColor=none;fontSize=10;fontColor=#808080;strokeColor=#FFFFFF;fillColor=#CCE5FF;" vertex="1" parent="UfeElJ_7Z13PW4r0txmC-9">
+          <mxGeometry x="191" y="9.059419880941277e-14" width="6" height="6" as="geometry" />
         </mxCell>
         <mxCell id="UfeElJ_7Z13PW4r0txmC-19" value="" style="shape=image;aspect=fixed;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cGF0aCBkPSJNNDMyLDMyMEg0MDBhMTYsMTYsMCwwLDAtMTYsMTZWNDQ4SDY0VjEyOEgyMDhhMTYsMTYsMCwwLDAsMTYtMTZWODBhMTYsMTYsMCwwLDAtMTYtMTZINDhBNDgsNDgsMCwwLDAsMCwxMTJWNDY0YTQ4LDQ4LDAsMCwwLDQ4LDQ4SDQwMGE0OCw0OCwwLDAsMCw0OC00OFYzMzZBMTYsMTYsMCwwLDAsNDMyLDMyMFpNNDg4LDBoLTEyOGMtMjEuMzcsMC0zMi4wNSwyNS45MS0xNyw0MWwzNS43MywzNS43M0wxMzUsMzIwLjM3YTI0LDI0LDAsMCwwLDAsMzRMMTU3LjY3LDM3N2EyNCwyNCwwLDAsMCwzNCwwTDQzNS4yOCwxMzMuMzIsNDcxLDE2OWMxNSwxNSw0MSw0LjUsNDEtMTdWMjRBMjQsMjQsMCwwLDAsNDg4LDBaIi8+PC9zdmc+;connectable=0;movable=1;verticalLabelPosition=bottom;resizable=1;rotatable=0;cloneable=0;deletable=1;recursiveResize=0;imageBackground=none;verticalAlign=top;fontSize=6;" vertex="1" parent="1">
           <mxGeometry x="1264" y="1760.96" width="5" height="5" as="geometry" />
@@ -880,7 +883,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UfeElJ_7Z13PW4r0txmC-47" value="Aufgaben sind ebenfalls Elemente" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;labelBorderColor=none;fontSize=10;fontColor=#333333;strokeColor=#666666;fillColor=#f5f5f5;" vertex="1" parent="1">
-          <mxGeometry x="238" y="3084" width="102" height="112" as="geometry" />
+          <mxGeometry x="238" y="3084" width="102" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="UfeElJ_7Z13PW4r0txmC-57" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=6;fontColor=#4D4D4D;" edge="1" parent="1" source="UfeElJ_7Z13PW4r0txmC-56" target="UfeElJ_7Z13PW4r0txmC-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UfeElJ_7Z13PW4r0txmC-56" value="Hier kann eingetragen werden, wenn der Klient mit einer weitergehenden Befragung einverstanden ist" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;labelBackgroundColor=none;labelBorderColor=none;fontSize=10;fontColor=#333333;strokeColor=#666666;fillColor=#f5f5f5;" vertex="1" parent="1">
+          <mxGeometry x="249" y="3315" width="102" height="98" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
