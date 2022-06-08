@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-08T08:17:40.624Z" agent="5.0 (Windows)" etag="8PwXOxfILJDCcjTL_dHT" version="19.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-08T08:31:09.367Z" agent="5.0 (Windows)" etag="aHb4ANp86bRdT_H9tdAn" version="19.0.1" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="2062" dy="1140" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="3231" dy="1967" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,11 +10,11 @@
         <mxCell id="mQkADK4qdGQxoDrUJaRL-8" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="uCP_6CUTZvWZAbhtNJwN-77" target="mQkADK4qdGQxoDrUJaRL-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mQkADK4qdGQxoDrUJaRL-22" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uCP_6CUTZvWZAbhtNJwN-77" target="mQkADK4qdGQxoDrUJaRL-21">
+        <mxCell id="mQkADK4qdGQxoDrUJaRL-22" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="uCP_6CUTZvWZAbhtNJwN-77" target="mQkADK4qdGQxoDrUJaRL-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uCP_6CUTZvWZAbhtNJwN-77" value="To Do" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};sketch=1;" parent="1" vertex="1">
-          <mxGeometry x="480" y="300" width="100" height="40" as="geometry" />
+          <mxGeometry x="490" y="320" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uCP_6CUTZvWZAbhtNJwN-92" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="uCP_6CUTZvWZAbhtNJwN-78" target="uCP_6CUTZvWZAbhtNJwN-91" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -25,11 +25,14 @@
         <mxCell id="mQkADK4qdGQxoDrUJaRL-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curved=1;" edge="1" parent="1" source="uCP_6CUTZvWZAbhtNJwN-78" target="mQkADK4qdGQxoDrUJaRL-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="mQkADK4qdGQxoDrUJaRL-27" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uCP_6CUTZvWZAbhtNJwN-78" target="mQkADK4qdGQxoDrUJaRL-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="uCP_6CUTZvWZAbhtNJwN-78" value="Fachgebietsarbeit" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};sketch=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="290" y="250" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uCP_6CUTZvWZAbhtNJwN-79" value="FGB Klausur" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};sketch=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="205" y="350" width="110" height="30" as="geometry" />
+          <mxGeometry x="60" y="360" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uCP_6CUTZvWZAbhtNJwN-80" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=1;sketch=1;exitX=0.443;exitY=1.067;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="uCP_6CUTZvWZAbhtNJwN-78" target="uCP_6CUTZvWZAbhtNJwN-79" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -127,10 +130,25 @@
           <mxGeometry x="1265" y="480" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mQkADK4qdGQxoDrUJaRL-21" value="Agora" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};sketch=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="650" y="110" width="70" height="30" as="geometry" />
+          <mxGeometry x="580" y="-20" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mQkADK4qdGQxoDrUJaRL-23" value="&lt;div&gt;Mit Dreckentrah telefonieren&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};sketch=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="830" y="95" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="mQkADK4qdGQxoDrUJaRL-29" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mQkADK4qdGQxoDrUJaRL-26" target="mQkADK4qdGQxoDrUJaRL-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mQkADK4qdGQxoDrUJaRL-31" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mQkADK4qdGQxoDrUJaRL-26" target="mQkADK4qdGQxoDrUJaRL-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mQkADK4qdGQxoDrUJaRL-26" value="ÖGD-Kontaktstelle" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};sketch=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="190" y="430" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mQkADK4qdGQxoDrUJaRL-28" value="Padlet Rückmeldungen anschauen" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};sketch=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="145" y="540" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mQkADK4qdGQxoDrUJaRL-30" value="Nächstes Treffen vorbereiten" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};sketch=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="430" width="200" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
