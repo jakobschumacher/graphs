@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-16T13:53:25.645Z" agent="5.0 (Windows)" etag="DJWEldPkaP4q1Tun8huJ" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-16T13:56:13.041Z" agent="5.0 (Windows)" etag="vXAqepGiSuwGez7jMKUb" version="20.0.1" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="1601" dy="1606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="1813" dy="1606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -38,6 +38,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mQkADK4qdGQxoDrUJaRL-27" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" source="LMBqHWlyGgOM0QiWOyd5-11" target="mQkADK4qdGQxoDrUJaRL-26" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJZXXsnUd8z4nvPOnFXm-2" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;curved=1;" edge="1" parent="1" source="uCP_6CUTZvWZAbhtNJwN-78" target="iJZXXsnUd8z4nvPOnFXm-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uCP_6CUTZvWZAbhtNJwN-78" value="Organisation" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};sketch=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
@@ -244,6 +247,9 @@
         </mxCell>
         <mxCell id="LMBqHWlyGgOM0QiWOyd5-18" value="Lehrdaten erfassen" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};sketch=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="125" y="-400" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iJZXXsnUd8z4nvPOnFXm-1" value="Aufgabenzusammenfassung auf Confluence überarbeiten" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};sketch=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-380" y="-680" width="360" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
