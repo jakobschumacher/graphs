@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-08-29T11:31:49.726Z" agent="5.0 (Windows)" etag="XMVUXX0tItVRukTJ3ZH4" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-29T11:38:18.025Z" agent="5.0 (Windows)" etag="aemBeCqLmw1MkMcmUfeR" version="20.0.4" type="github">
   <diagram id="WJgTXZkWOeTsql_Wcy9u" name="Page-1">
-    <mxGraphModel dx="2188" dy="1200" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="2585" dy="1418" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="46v4WsZl2KSojIUwqHHD-1" value="Pandemieradar Deutschland" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=26;" vertex="1" parent="1">
-          <mxGeometry x="110" y="60" width="610" height="30" as="geometry" />
+          <mxGeometry x="110" y="60" width="406" height="30" as="geometry" />
         </mxCell>
         <mxCell id="46v4WsZl2KSojIUwqHHD-2" value="" style="shape=image;aspect=fixed;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMjAgNTEyIj48IS0tISBGb250IEF3ZXNvbWUgRnJlZSA2LjEuMSBieSBAZm9udGF3ZXNvbWUgLSBodHRwczovL2ZvbnRhd2Vzb21lLmNvbSBMaWNlbnNlIC0gaHR0cHM6Ly9mb250YXdlc29tZS5jb20vbGljZW5zZS9mcmVlIChJY29uczogQ0MgQlkgNC4wLCBGb250czogU0lMIE9GTCAxLjEsIENvZGU6IE1JVCBMaWNlbnNlKSBDb3B5cmlnaHQgMjAyMiBGb250aWNvbnMsIEluYy4gLS0+PHBhdGggZD0iTTMxMC42IDI0Ni42bC0xMjcuMSAxMjhDMTc2LjQgMzgwLjkgMTY4LjIgMzg0IDE2MCAzODRzLTE2LjM4LTMuMTI1LTIyLjYzLTkuMzc1bC0xMjcuMS0xMjhDLjIyNDQgMjM3LjUtMi41MTYgMjIzLjcgMi40MzggMjExLjhTMTkuMDcgMTkyIDMyIDE5MmgyNTUuMWMxMi45NCAwIDI0LjYyIDcuNzgxIDI5LjU4IDE5Ljc1UzMxOS44IDIzNy41IDMxMC42IDI0Ni42eiIvPjwvc3ZnPg==;connectable=0;movable=1;verticalLabelPosition=bottom;resizable=1;rotatable=0;cloneable=0;deletable=1;recursiveResize=0;imageBackground=none;verticalAlign=top;fontSize=26;" vertex="1" parent="1">
           <mxGeometry x="450" y="60" width="35" height="35" as="geometry" />
@@ -130,7 +130,7 @@
         <mxCell id="46v4WsZl2KSojIUwqHHD-53" value="&lt;h1 style=&quot;font-size: 24px;&quot;&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;Bewertung&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&quot;Die Krankenhauseinweisung ist so hoch wie in der dritten Welle&quot;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=16;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="330" y="549" width="483" height="134" as="geometry" />
         </mxCell>
-        <mxCell id="46v4WsZl2KSojIUwqHHD-54" value="&lt;i style=&quot;font-size: 15px;&quot;&gt;Hr. Dr. Lauterbauch &lt;/i&gt;" style="text;whiteSpace=wrap;html=1;fontSize=15;fontColor=default;" vertex="1" parent="1">
+        <mxCell id="46v4WsZl2KSojIUwqHHD-54" value="&lt;div&gt;&lt;i style=&quot;font-size: 15px;&quot;&gt;Hr. Dr. Lauterbauch&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;i style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;29.08.2022&lt;br&gt; &lt;/i&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=15;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="639" y="629" width="145" height="35" as="geometry" />
         </mxCell>
         <mxCell id="46v4WsZl2KSojIUwqHHD-55" value="&lt;h1 style=&quot;font-size: 24px;&quot;&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;Erläuterung&lt;/font&gt;&lt;/h1&gt;&lt;p style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Anzahl&lt;br&gt; der an das RKI übermittelten COVID-19-Fälle pro 100.000 Einwohner &lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;- zeige mehr -&lt;/font&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=16;fontColor=default;" vertex="1" parent="1">
