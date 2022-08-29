@@ -1,1 +1,52 @@
-<mxfile host="app.diagrams.net" modified="2022-08-29T10:35:08.745Z" agent="5.0 (Windows)" version="20.0.4" etag="8d9JKvw8LeHDUeBHsahK" type="github"><diagram id="WJgTXZkWOeTsql_Wcy9u">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-08-29T11:05:28.345Z" agent="5.0 (Windows)" etag="uijLUoV5i1S9ypUdJNWQ" version="20.0.4" type="github">
+  <diagram id="WJgTXZkWOeTsql_Wcy9u" name="Page-1">
+    <mxGraphModel dx="1422" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="46v4WsZl2KSojIUwqHHD-1" value="Pandemieradar Deutschland" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=26;" vertex="1" parent="1">
+          <mxGeometry x="110" y="60" width="610" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="46v4WsZl2KSojIUwqHHD-2" value="" style="shape=image;aspect=fixed;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMjAgNTEyIj48IS0tISBGb250IEF3ZXNvbWUgRnJlZSA2LjEuMSBieSBAZm9udGF3ZXNvbWUgLSBodHRwczovL2ZvbnRhd2Vzb21lLmNvbSBMaWNlbnNlIC0gaHR0cHM6Ly9mb250YXdlc29tZS5jb20vbGljZW5zZS9mcmVlIChJY29uczogQ0MgQlkgNC4wLCBGb250czogU0lMIE9GTCAxLjEsIENvZGU6IE1JVCBMaWNlbnNlKSBDb3B5cmlnaHQgMjAyMiBGb250aWNvbnMsIEluYy4gLS0+PHBhdGggZD0iTTMxMC42IDI0Ni42bC0xMjcuMSAxMjhDMTc2LjQgMzgwLjkgMTY4LjIgMzg0IDE2MCAzODRzLTE2LjM4LTMuMTI1LTIyLjYzLTkuMzc1bC0xMjcuMS0xMjhDLjIyNDQgMjM3LjUtMi41MTYgMjIzLjcgMi40MzggMjExLjhTMTkuMDcgMTkyIDMyIDE5MmgyNTUuMWMxMi45NCAwIDI0LjYyIDcuNzgxIDI5LjU4IDE5Ljc1UzMxOS44IDIzNy41IDMxMC42IDI0Ni42eiIvPjwvc3ZnPg==;connectable=0;movable=1;verticalLabelPosition=bottom;resizable=1;rotatable=0;cloneable=0;deletable=1;recursiveResize=0;imageBackground=none;verticalAlign=top;fontSize=26;" vertex="1" parent="1">
+          <mxGeometry x="450" y="60" width="35" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="46v4WsZl2KSojIUwqHHD-3" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;Krankenhaus&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;einweisungen&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;align=left;spacing=3;spacingLeft=4;" vertex="1" parent="1">
+          <mxGeometry x="70" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="46v4WsZl2KSojIUwqHHD-4" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;7-Tage &lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;Inzidenz&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;align=left;spacing=3;spacingLeft=4;" vertex="1" parent="1">
+          <mxGeometry x="220" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="46v4WsZl2KSojIUwqHHD-5" value="Abwasser" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;align=left;spacing=3;spacingLeft=4;" vertex="1" parent="1">
+          <mxGeometry x="370" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="46v4WsZl2KSojIUwqHHD-6" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;Atemwegs&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;Erkrankungen&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;align=left;spacing=3;spacingLeft=4;" vertex="1" parent="1">
+          <mxGeometry x="520" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="46v4WsZl2KSojIUwqHHD-7" value="Todesfälle" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;align=left;spacing=3;spacingLeft=4;" vertex="1" parent="1">
+          <mxGeometry x="670" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="46v4WsZl2KSojIUwqHHD-8" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;Schwere&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;Coronafälle&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;align=left;spacing=3;spacingLeft=4;" vertex="1" parent="1">
+          <mxGeometry x="820" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="46v4WsZl2KSojIUwqHHD-9" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;Intensiv&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;betten&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;align=left;spacing=3;spacingLeft=4;" vertex="1" parent="1">
+          <mxGeometry x="970" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="46v4WsZl2KSojIUwqHHD-10" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;Normal&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;betten&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;align=left;spacing=3;spacingLeft=4;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="46v4WsZl2KSojIUwqHHD-11" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;Virus&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;varianten&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;align=left;spacing=3;spacingLeft=4;" vertex="1" parent="1">
+          <mxGeometry x="1270" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="46v4WsZl2KSojIUwqHHD-12" value="367" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="280" y="165" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="46v4WsZl2KSojIUwqHHD-13" value="4%" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="165" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="46v4WsZl2KSojIUwqHHD-14" value="" style="shape=image;aspect=fixed;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48IS0tISBGb250IEF3ZXNvbWUgRnJlZSA2LjEuMSBieSBAZm9udGF3ZXNvbWUgLSBodHRwczovL2ZvbnRhd2Vzb21lLmNvbSBMaWNlbnNlIC0gaHR0cHM6Ly9mb250YXdlc29tZS5jb20vbGljZW5zZS9mcmVlIChJY29uczogQ0MgQlkgNC4wLCBGb250czogU0lMIE9GTCAxLjEsIENvZGU6IE1JVCBMaWNlbnNlKSBDb3B5cmlnaHQgMjAyMiBGb250aWNvbnMsIEluYy4gLS0+PHBhdGggZD0iTTUxMiAyNTZDNTEyIDI3My43IDQ5Ny43IDI4OCA0ODAgMjg4SDE2MC4xbDAgNzJjMCA5LjU0Ny01LjY2IDE4LjE5LTE0LjQyIDIyYy04Ljc1NCAzLjgxMi0xOC45NSAyLjA3Ny0yNS45NC00LjQwN2wtMTEyLjEtMTA0Yy0xMC4yNC05LjUtMTAuMjQtMjUuNjkgMC0zNS4xOWwxMTIuMS0xMDRjNi45OTItNi40ODQgMTcuMTgtOC4yMTggMjUuOTQtNC40MDZDMTU0LjQgMTMzLjggMTYwLjEgMTQyLjUgMTYwLjEgMTUxLjFMMTYwLjEgMjI0SDQ4MEM0OTcuNyAyMjQgNTEyIDIzOC4zIDUxMiAyNTZ6Ii8+PC9zdmc+;connectable=0;movable=1;verticalLabelPosition=bottom;resizable=1;rotatable=0;cloneable=0;deletable=1;recursiveResize=0;imageBackground=none;verticalAlign=top;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="204" y="290" width="16" height="16" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
