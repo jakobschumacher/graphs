@@ -1,1 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2022-09-06T11:44:34.826Z" agent="5.0 (Windows)" version="20.2.8" etag="1IJniGImSLH3-sb-HI-7" type="github"><diagram id="plmXVygu8P5C60yl7MRS">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-09-06T12:00:04.232Z" agent="5.0 (Windows)" etag="44BlX2I_emIJxoFVzLnf" version="20.2.8" type="github">
+  <diagram id="plmXVygu8P5C60yl7MRS" name="Seite-1">
+    <mxGraphModel dx="1422" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="yhwLDP4axikdHXlDYK69-1" value="Pandemieradar" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="150" y="80" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yhwLDP4axikdHXlDYK69-2" value="06.09.2022" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="80" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yhwLDP4axikdHXlDYK69-3" value="Deutschland" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="180" y="140" width="150" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
