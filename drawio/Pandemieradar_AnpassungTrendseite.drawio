@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-08T08:27:23.079Z" agent="5.0 (Windows)" etag="CFG_ijYPAnwHZNsqjW3n" version="20.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-08T08:27:57.736Z" agent="5.0 (Windows)" etag="M9nHdGUy6tArFn9sYshx" version="20.2.8" type="github">
   <diagram id="23L90sKc01ajjzSAWbDZ" name="Seite-1">
     <mxGraphModel dx="2031" dy="1114" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -18,6 +18,9 @@
         </mxCell>
         <mxCell id="j40OOkB2Z2-BPT7PYRIA-8" value="Hier soll &quot;Pandemieradar&quot; stehen" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=31;fontColor=#990000;" vertex="1" parent="1">
           <mxGeometry x="900" y="570" width="370" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="j40OOkB2Z2-BPT7PYRIA-12" value="" style="shape=stencil(lVjZThwxEPyafW3Zbp/PJPkPJJawCmERkOvvU87Kk3XPTCEkHobBhfuoru6eg968Ptw+Hw/Bvb69nL8df53u3h4O+ukQwunp4fhyesPTQT8f9Ob+/HL8+nL+8XR3+f35tp/sT9/PP/t/+H3BlSiA9B/35/ImSfP/Xny5nH88PV2dz1VKms57L00JIEo1gCIhEoCXPANCkNj2AamuAEVqIAC4WCeAqnjidFLJc5C0cpO8pDwBotIoxSZpNglvYiWAOixe8hZFSVhjFtcmQFZxiQBUqpsAxUthPnjxZQJUJ47kAUFUAwA1SFgVXJqj1FQSAzgJOgPqCPQmIOjg5sJWByfcPsJHiTOiJVFyhXeDnIvXsKnsA8rqPAJNnF4VXEnDxG2DQP45SIVH1ddBzQVQqMuIapu5B2ZEQiUNkrMFeEJWbZLnGwoqiqQtlhHzBQA2ZlLSWYIph/ye8CW1eQgEUMLKBxUlTsPiNjMDFZqJ082Jzj5khIEIXwviZ3JnOM1uiBuAQsLastUxmOQIlxrKQS2gkii1ZumNHtbYDU3qTL7iaB4AaNnmgTUgAKLhklJqQLWCuQGyw0zKkuc8gHzKbohSggUUIgKgRvErAAurW/WTNOi4CahtVXFxxG0bUAdzrsLqibKi3SQjlX6MN3uAbG5AhyFOwyTTHfJStHtOlznTnd6sRP3QuesCYhWnEmfl6yXKuJSs3HcRYPQuWzLDbqgrp3lLbCu5z22MBjtNd+niV6mmBdFsC4I+U37DiRVdHXOi2NEbBfGO9H0MUNUmAl2RTfdoaXkGYNYoxAfkKZgRTocYbrfRZvtuzUOftwHOcqOXORt/vJ3uUVOsQWCqNDoDqWpkYArZ3tCLkBREgEgkCwgEgBnRGafLmJV3Zj47YAVRdsHQlKsJzhMmbVUPq7c8ZqkryfDMHrXdpGsMn0FdtBaxjgiXbc+tdIxGTMNsUk1juNm9YZ1lkjTcYBZXZNmT4sEqYJo0ylNJPWP/sSKmVOuxCKsZltKQtW1AsttJKjTTuhKxFEZD2tsS2xwlzO5sn4EAGGpELmLYdHU2SbEss003jcl/ATi+fFeps+r1LY2pXrBjsW+0oFNafZfRwa7tCnX2hjJs3D6/bLXLBZRJveCbOe/YZ59iy83RBQ6dx9jjaHViQMhqzrO9HoNdbfY8UTxMB86eZztxH02zOc8UtQ8TauKZiFaUlbgEut/2UWLWRx1Na/e8qTI6a8OeMpcAn10++mHy/fN4+P8V9P70+Hj5iHr9d/vVFK8uX1z1818=);lineShape=1;fontSize=31;fontColor=#990000;" vertex="1" parent="1">
+          <mxGeometry x="1034.5519037073232" y="707.3680215263005" width="55.49473420157678" height="76.14974838048609" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
