@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-27T10:55:45.355Z" agent="5.0 (Windows)" etag="vXRqfCbequmN2kx51yBT" version="20.3.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-08T13:43:17.506Z" agent="5.0 (X11; Ubuntu)" etag="JnJHycVyQXky69L5ITFp" version="20.3.6" type="github">
   <diagram id="PCdTuPednkusaLk7QfRH" name="Page-1">
-    <mxGraphModel dx="5688" dy="3120" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="4124" dy="2306" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -294,16 +294,16 @@
         <mxCell id="52qf8ySm6mOf2ibHxot5-18" value="Event Surveillance" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=33;fontColor=#333333;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="1020.9988473520252" y="3515.33" width="228.70249221183806" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="JO_by42pGOnjn9la-Y-6-1" value="&lt;div&gt;Ziele&lt;/div&gt;&lt;div&gt;Schutzmaßnahmen der Gesundheitsämter&lt;/div&gt;&lt;div&gt;Schutzmaßnahmen der Länder/Bund&lt;/div&gt;&lt;div&gt;Forschung&lt;/div&gt;&lt;div&gt;Ressourcenallokation&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=33;" vertex="1" parent="1">
-          <mxGeometry x="363" y="1238" width="561" height="88" as="geometry" />
+        <mxCell id="JO_by42pGOnjn9la-Y-6-1" value="&lt;div style=&quot;font-size: 24px;&quot;&gt;&lt;h2&gt;Ziele&lt;/h2&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 24px;&quot;&gt;Schutzmaßnahmen der Gesundheitsämter&lt;/div&gt;&lt;div style=&quot;font-size: 24px;&quot;&gt;Schutzmaßnahmen der Länder/Bund &lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 24px;&quot;&gt;Ressourcenallokation&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 24px;&quot;&gt;Maßnahmen des Gesundheitswesens&lt;/div&gt;&lt;div style=&quot;font-size: 24px;&quot;&gt;Verhaltensänderung der Bevölkerung&lt;br style=&quot;font-size: 24px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 24px;&quot;&gt;Forschung&lt;/div&gt;&lt;div style=&quot;font-size: 24px;&quot;&gt;Wächterfunktion&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 24px;&quot;&gt;&lt;br style=&quot;font-size: 24px;&quot;&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=24;" parent="1" vertex="1">
+          <mxGeometry x="363" y="1238" width="853" height="354" as="geometry" />
         </mxCell>
-        <mxCell id="JO_by42pGOnjn9la-Y-6-2" value="&lt;div&gt;Qualitätsstufen&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Vollerfassung&lt;/div&gt;&lt;div&gt;Trenderfassung&lt;/div&gt;&lt;div&gt;Semiquantitive Erfassung&lt;/div&gt;&lt;div&gt;Qualittative Erfassung&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=33;" vertex="1" parent="1">
-          <mxGeometry x="1237" y="1240" width="561" height="88" as="geometry" />
+        <mxCell id="JO_by42pGOnjn9la-Y-6-2" value="&lt;div style=&quot;font-size: 24px;&quot;&gt;&lt;h2&gt;Qualitätsstufen&lt;/h2&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 24px;&quot;&gt;Vollerfassung&lt;/div&gt;&lt;div style=&quot;font-size: 24px;&quot;&gt;Trenderfassung&lt;/div&gt;&lt;div style=&quot;font-size: 24px;&quot;&gt;Semiquantitive Erfassung&lt;/div&gt;&lt;div style=&quot;font-size: 24px;&quot;&gt;Qualittative Erfassung&lt;br style=&quot;font-size: 24px;&quot;&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=24;" parent="1" vertex="1">
+          <mxGeometry x="1237" y="1240" width="815" height="330" as="geometry" />
         </mxCell>
-        <mxCell id="JO_by42pGOnjn9la-Y-6-3" value="&lt;div&gt;Typen&lt;/div&gt;&lt;div&gt;Aktiv/Passiv&lt;/div&gt;&lt;div&gt;Sentinal&lt;/div&gt;&lt;div&gt;Event vs. Indikator based&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=33;" vertex="1" parent="1">
-          <mxGeometry x="2010.7" y="1218" width="561" height="88" as="geometry" />
+        <mxCell id="JO_by42pGOnjn9la-Y-6-3" value="&lt;div style=&quot;font-size: 24px;&quot;&gt;&lt;h2&gt;Typen&lt;/h2&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 24px;&quot;&gt;Aktiv/Passiv&lt;/div&gt;&lt;div style=&quot;font-size: 24px;&quot;&gt;Sentinal&lt;/div&gt;&lt;div style=&quot;font-size: 24px;&quot;&gt;Event vs. Indikator based&lt;/div&gt;&lt;div style=&quot;font-size: 24px;&quot;&gt;&lt;br style=&quot;font-size: 24px;&quot;&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=24;" parent="1" vertex="1">
+          <mxGeometry x="2447" y="1270" width="561" height="322" as="geometry" />
         </mxCell>
-        <mxCell id="JO_by42pGOnjn9la-Y-6-4" value="" style="endArrow=none;html=1;rounded=0;fontSize=55;" edge="1" parent="1">
+        <mxCell id="JO_by42pGOnjn9la-Y-6-4" value="" style="endArrow=none;html=1;rounded=0;fontSize=55;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="244" y="3051.000000000001" as="sourcePoint" />
             <mxPoint x="3001" y="3051.000000000001" as="targetPoint" />
