@@ -1,17 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2023-12-17T10:34:49.678Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0" etag="YH05URwypJBx8z9y7dGm" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-17T10:37:47.943Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0" etag="FFf4CROzKGhU4zeG0DMx" version="22.1.11" type="github">
   <diagram name="Seite-1" id="AiSrOBuyuefX2J9P1v7X">
     <mxGraphModel dx="1717" dy="923" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="7GkrFv1jprdhs6dZ23ng-33" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="320" y="130" width="1010" height="270" as="geometry" />
+          <mxGeometry x="350" y="130" width="980" height="320" as="geometry" />
         </mxCell>
         <mxCell id="7GkrFv1jprdhs6dZ23ng-34" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="7GkrFv1jprdhs6dZ23ng-33">
-          <mxGeometry width="1010" height="270" as="geometry" />
+          <mxGeometry width="980" height="320" as="geometry" />
         </mxCell>
         <mxCell id="7GkrFv1jprdhs6dZ23ng-35" value="Meldewesen" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontStyle=2" vertex="1" parent="7GkrFv1jprdhs6dZ23ng-33">
-          <mxGeometry width="121.2" height="26.666666666666664" as="geometry" />
+          <mxGeometry width="117.6" height="31.604938271604933" as="geometry" />
         </mxCell>
         <mxCell id="7GkrFv1jprdhs6dZ23ng-3" value="Ansteckung" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="590" y="370" width="60" height="30" as="geometry" />
@@ -59,13 +59,13 @@
           <mxGeometry x="790" y="260" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7GkrFv1jprdhs6dZ23ng-20" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="360" y="400" width="480" height="150" as="geometry" />
+          <mxGeometry x="330" y="400" width="510" height="150" as="geometry" />
         </mxCell>
         <mxCell id="7GkrFv1jprdhs6dZ23ng-18" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="7GkrFv1jprdhs6dZ23ng-20">
-          <mxGeometry width="480" height="150" as="geometry" />
+          <mxGeometry width="510" height="150" as="geometry" />
         </mxCell>
         <mxCell id="7GkrFv1jprdhs6dZ23ng-19" value="Abwassersurveillance" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontStyle=2" vertex="1" parent="7GkrFv1jprdhs6dZ23ng-20">
-          <mxGeometry width="57.599999999999994" height="16.666666666666668" as="geometry" />
+          <mxGeometry width="61.2" height="16.666666666666668" as="geometry" />
         </mxCell>
         <mxCell id="7GkrFv1jprdhs6dZ23ng-21" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="70" y="470" width="230" height="100" as="geometry" />
@@ -86,7 +86,7 @@
           <mxGeometry width="45.6" height="12.222222222222221" as="geometry" />
         </mxCell>
         <mxCell id="7GkrFv1jprdhs6dZ23ng-36" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="380" y="430" width="110" height="105" as="geometry" />
+          <mxGeometry x="390" y="330" width="110" height="105" as="geometry" />
         </mxCell>
         <mxCell id="7GkrFv1jprdhs6dZ23ng-37" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="7GkrFv1jprdhs6dZ23ng-36">
           <mxGeometry width="110.00000000000001" height="105" as="geometry" />
