@@ -1,9 +1,80 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:145.0) Gecko/20100101 Firefox/145.0" version="28.0.7">
   <diagram name="Seite-1" id="2GD7zHxO9tU_BB237w-n">
-    <mxGraphModel>
+    <mxGraphModel dx="2052" dy="1141" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="BsObMYKG0e7w5xKoEAtN-1" value="Zum Kino gehen" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="420" width="120" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="BsObMYKG0e7w5xKoEAtN-20" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="BsObMYKG0e7w5xKoEAtN-2" target="BsObMYKG0e7w5xKoEAtN-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BsObMYKG0e7w5xKoEAtN-2" value="Zum Helmholtzplatz gehen und Schlüsselkasten finden" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="480" width="120" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="BsObMYKG0e7w5xKoEAtN-18" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="BsObMYKG0e7w5xKoEAtN-3" target="BsObMYKG0e7w5xKoEAtN-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BsObMYKG0e7w5xKoEAtN-3" value="Gang zum Planetarium" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="350" width="120" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="BsObMYKG0e7w5xKoEAtN-16" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=default;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="BsObMYKG0e7w5xKoEAtN-4" target="BsObMYKG0e7w5xKoEAtN-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BsObMYKG0e7w5xKoEAtN-4" value="Zum Lindenmarkt gehen" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="130" width="120" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="BsObMYKG0e7w5xKoEAtN-14" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;curved=0;strokeWidth=4;" edge="1" parent="1" source="BsObMYKG0e7w5xKoEAtN-7" target="BsObMYKG0e7w5xKoEAtN-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BsObMYKG0e7w5xKoEAtN-7" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Rätsel 1&lt;/h1&gt;&lt;p&gt;Sie müssen einen Code in den Computer eingeben.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=1;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="310" y="160" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="BsObMYKG0e7w5xKoEAtN-15" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=default;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="BsObMYKG0e7w5xKoEAtN-8" target="BsObMYKG0e7w5xKoEAtN-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="830" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BsObMYKG0e7w5xKoEAtN-8" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Rätsel 2&lt;/h1&gt;&lt;p&gt;Sie müssen Lindenalle finden&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=1;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="610" y="240" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="BsObMYKG0e7w5xKoEAtN-17" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=default;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="BsObMYKG0e7w5xKoEAtN-9" target="BsObMYKG0e7w5xKoEAtN-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BsObMYKG0e7w5xKoEAtN-9" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Rätsel 3&lt;/h1&gt;&lt;p&gt;Sie müssen das Planetarium finden&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=1;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="130" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="BsObMYKG0e7w5xKoEAtN-19" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="BsObMYKG0e7w5xKoEAtN-10" target="BsObMYKG0e7w5xKoEAtN-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BsObMYKG0e7w5xKoEAtN-10" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Rätsel 4&lt;/h1&gt;&lt;p&gt;Sie müssen den Längen/Breitengrad finden&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=1;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="550" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="BsObMYKG0e7w5xKoEAtN-23" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=default;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="BsObMYKG0e7w5xKoEAtN-11" target="BsObMYKG0e7w5xKoEAtN-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BsObMYKG0e7w5xKoEAtN-11" value="Geschenk" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Essential_Web_5-2055/note-short-reminder-memo-brief-925.svg" vertex="1" parent="1">
+          <mxGeometry x="50" y="50" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="BsObMYKG0e7w5xKoEAtN-22" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="BsObMYKG0e7w5xKoEAtN-12" target="BsObMYKG0e7w5xKoEAtN-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BsObMYKG0e7w5xKoEAtN-12" value="Kinokarten" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Essential_Web_5-2055/note-short-reminder-memo-brief-925.svg" vertex="1" parent="1">
+          <mxGeometry x="240" y="560" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="BsObMYKG0e7w5xKoEAtN-21" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="BsObMYKG0e7w5xKoEAtN-13" target="BsObMYKG0e7w5xKoEAtN-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BsObMYKG0e7w5xKoEAtN-13" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Rätsel 5&lt;/h1&gt;&lt;p&gt;Schlüsselkasten finden&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=1;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="500" y="520" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="BsObMYKG0e7w5xKoEAtN-25" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=default;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="BsObMYKG0e7w5xKoEAtN-24" target="BsObMYKG0e7w5xKoEAtN-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BsObMYKG0e7w5xKoEAtN-24" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Rätsel 6&lt;/h1&gt;&lt;p&gt;Code in den Text eingeben&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=1;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="360" y="720" width="180" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
