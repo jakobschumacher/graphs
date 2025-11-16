@@ -66,7 +66,7 @@
         <mxCell id="BsObMYKG0e7w5xKoEAtN-21" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="BsObMYKG0e7w5xKoEAtN-13" target="BsObMYKG0e7w5xKoEAtN-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BsObMYKG0e7w5xKoEAtN-13" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Rätsel 5&lt;/h1&gt;&lt;p&gt;Schlüsselkasten finden&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=1;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="1">
+        <mxCell id="BsObMYKG0e7w5xKoEAtN-13" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Rätsel 5&lt;/h1&gt;&lt;p&gt;Code eingeben 0911&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=1;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="500" y="520" width="180" height="120" as="geometry" />
         </mxCell>
         <mxCell id="BsObMYKG0e7w5xKoEAtN-25" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=default;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="BsObMYKG0e7w5xKoEAtN-24" target="BsObMYKG0e7w5xKoEAtN-12">
